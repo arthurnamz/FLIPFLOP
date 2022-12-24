@@ -1,3 +1,5 @@
+// calling the header file and implement the class
+
 #include "ff.h"
 
 sc_int<3> data;
