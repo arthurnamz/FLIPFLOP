@@ -1,3 +1,5 @@
+// Header files where ports are declared
+
 #include<systemc.h>
 
 SC_MODULE(flipflop) {
